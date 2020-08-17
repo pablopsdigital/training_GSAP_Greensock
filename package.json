@@ -1,0 +1,15 @@
+{
+  "name": "udemy",
+  "version": "1.0.0",
+  "description": "> Aqui ficam os arquivos do curso de Greensock que foi desenvolvido por: > Willian Justen e Guilherme Louro",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
